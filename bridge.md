@@ -33,6 +33,7 @@
 #### Il y a
 ````
 - le neuvieme atout 4 points
-- chicane (aucune carte dans une couleur )
-
+- chicane 3 points (aucune carte dans une couleur )
+- singleton  2 points (une carte dans une couleur)
+- un doubleton 1 points (deux cartes dans une couleur)
  

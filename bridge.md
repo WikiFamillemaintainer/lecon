@@ -14,4 +14,25 @@
 #### Conditions
 - minimum 6 piques ou coeur
  - entre 6 et 10 points
--
+### ouverture trop classe !!!!!!!!!!!!!!! (2 SA en premiere enchere)
+#### conditions
+- entre 18 et 20 points
+- pas de chicane ni de singleton et maximum un doubleton
+### ouverture 1 T
+#### Cela veux dire : ``` "partenaire je n'ai pas 5 cartes a piques ni a coeur dis moi ce que tu as " ```
+## 2. les points 
+### 2.1 points d'honneurs 
+#### Les points d'honneurs sont :
+````
+- as 4 points
+- roi 3 points
+- dame 2 points 
+- valet 1 point 
+````
+### 2.2 points de distribution
+#### Il y a
+````
+- le neuvieme atout 4 points
+- chicane (aucune carte dans une couleur )
+
+ 

@@ -33,4 +33,15 @@
 ```` html
 <h1>Gros titre</h1>
 ````
-#### 
+#### Cela donne un gros titre
+### Les commandes
+````shell
+ls lister le dossiers et fichiers d un dossier
+cat afficher le contenu d'un fichier
+cd se deplacer dans un dossier 
+touch creer un fichier
+mkdir creer un dossier
+code lançer Visual studio code (vous verrez qu est ce que c est un niveau 2)
+````
+
+### Revisez les bases egalement !
